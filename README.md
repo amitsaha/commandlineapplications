@@ -37,9 +37,13 @@
 
 *Standard Library*
 
+- [flag](https://golang.org/pkg/flag/)
+
 *Third party*
 
+- [cli](https://github.com/codegangsta/cli)
 - [cobra](https://github.com/spf13/cobra)
+- [docopt](https://github.com/docopt/docopt.go)
 
 ### Text user interface
 
