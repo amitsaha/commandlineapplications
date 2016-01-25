@@ -52,6 +52,7 @@
 *Third party*
 
 - [termbox](github.com/nsf/termbox-go)
+- [termui] (https://github.com/gizak/termui)
 
 ## Python
 
