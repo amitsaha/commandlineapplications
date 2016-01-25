@@ -62,6 +62,9 @@
 
 *Third party*
 
+- [click](click.pocoo.org/5/)
+- [argcomplete](https://pypi.python.org/pypi/argcomplete)
+
 
 ### Text user interface
 
