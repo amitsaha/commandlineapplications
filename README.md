@@ -64,6 +64,7 @@
 
 - [click](click.pocoo.org/5/)
 - [argcomplete](https://pypi.python.org/pypi/argcomplete)
+- [python prompt toolkit](http://python-prompt-toolkit.readthedocs.org/en/stable/)
 
 
 ### Text user interface
