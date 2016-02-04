@@ -44,6 +44,7 @@
 - [cli](https://github.com/codegangsta/cli)
 - [cobra](https://github.com/spf13/cobra)
 - [docopt](https://github.com/docopt/docopt.go)
+- [writ](https://github.com/bobziuchkovski/writ)
 
 ### Text user interface
 
