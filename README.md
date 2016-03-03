@@ -74,6 +74,8 @@
 
 *Third party*
 
+- [py-term](https://github.com/gravmatt/py-term)
+
 
 ## Rust
 
